@@ -25,4 +25,8 @@
     "vite": "^7.1.2"
   }
 }
- 
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+} 
