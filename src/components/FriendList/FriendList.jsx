@@ -21,3 +21,4 @@ const FriendList = ({ friends }) => {
 }
 
 export default FriendList
+//gg
