@@ -7,7 +7,6 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "build": "[my-framework] build --output public",
     "preview": "vite preview"
   },
   "dependencies": {
