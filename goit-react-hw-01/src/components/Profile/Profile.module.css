@@ -1,0 +1,42 @@
+.profile {
+  width: 300px;
+  margin: 2rem auto 0; /* ortala, yukarıdan boşluk bırak */
+  background-color: #da9c9c;
+  border-radius: 12px;
+border: 6px solid #03003a;
+  overflow: hidden;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+
+
+.profile img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #ffffff;
+  margin-bottom: 15px;
+}
+
+.profile p {
+  margin: 10px 0;
+}
+
+
+
+.profile ul {
+  display: flex;
+  background-color: #5c8ec0;
+  border-top: 3px solid #03003a;
+  border-bottom: 3px solid #03003a;
+}
+
+.profile li {
+  flex: 1;
+  padding: 7px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
